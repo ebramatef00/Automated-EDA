@@ -1,5 +1,3 @@
-Sure, here's an example of a README file for this project:
-
 # Automated EDA Tool
 
 This Capstone Project involves building an Automated EDA (Exploratory Data Analysis) tool that can pre-process and visualize data based on column types using Python. The tool aims to simplify the EDA process by automating the pre-processing steps and providing a comprehensive visualization dashboard for each column type.
